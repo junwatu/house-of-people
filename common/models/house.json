@@ -1,0 +1,14 @@
+{
+  "name": "house",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "address": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
