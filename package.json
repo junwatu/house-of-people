@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
+    "test":"./node_modules/mocha/bin/mocha",
     "pretest": "jshint ."
   },
   "dependencies": {
